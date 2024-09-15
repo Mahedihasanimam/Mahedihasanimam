@@ -1,4 +1,4 @@
-<img width="100%" src="[https://www.shutterstock.com/image-vector/frontend-development-vector-concept-laptop-260nw-1590192622.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ04KMsy3gsHC6pBp0L9Jf9O_sbUvqaDutcXqHpu7_oUGFNazN1Rh7cdDqNdxqP2jKlpyM&usqp=CAU)" alt="Frontend Development" />
+<img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ04KMsy3gsHC6pBp0L9Jf9O_sbUvqaDutcXqHpu7_oUGFNazN1Rh7cdDqNdxqP2jKlpyM&usqp=CAU" alt="Frontend Development" />
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
