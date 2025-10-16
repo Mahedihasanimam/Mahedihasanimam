@@ -8,7 +8,7 @@
 </picture>
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahedihasanimam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -20,30 +20,29 @@
 
 ---
 
+### 🧠 About Me
+
+- 💼 Currently working as a **Front-End Developer** at **Sparktech Agency**
+- 🌱 Exploring advanced concepts in **Next.js**, **TypeScript**, and **System Design**
+- ⚡ Focused on creating **performant**, **responsive**, and **user-friendly** interfaces
+- 💬 Ask me about **React, Next.js, Redux Toolkit, and Tailwind CSS**
+- 📫 Reach me at: **mdmehedihasen678@gmail.com**
+- 🌐 Visit my portfolio: [mehedi60.netlify.app](https://mehedi60.netlify.app/)
+- 📄 View my résumé: [Click Here](https://drive.google.com/file/d/1wS6ZtWEJfWtqyGrO99TgOaG2cFOKUMfo/view)
+
+---
+
+### 🤝 Connect with Me
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahedihasanimam&theme=darkhub" alt="Trophies" /></a>
-</p>
-
----
-
-### 🛠️ About Me
-
-- 🔭 I’m currently working on [HostelManagement](https://hostelmanagement-d2b48.web.app/)
-- 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **React, JavaScript**
-- 📫 How to reach me: **mdmehedihasen678@gmail.com**
-- 📄 View my resume: [Click Here](https://drive.google.com/file/d/1wS6ZtWEJfWtqyGrO99TgOaG2cFOKUMfo/view)
-
----
-
-### 📫 Connect with me
-
-<p align="left">
-  <a href="https://twitter.com/no" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/mehedi60" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+  </a>
+  <a href="https://github.com/Mahedihasanimam" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="35" width="45" />
+  </a>
+  <a href="mailto:mdmehedihasen678@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="35" width="45" />
   </a>
 </p>
 
@@ -51,31 +50,50 @@
 
 ### 🧰 Languages and Tools
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://react.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/></a>
+  <a href="https://redux-toolkit.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/></a>
+  <a href="https://figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/></a>
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🛍️ [**VapeShopMaps**](https://vapeshopmaps.com/) – A B2B social & e-commerce platform connecting users, stores, and brands.  
+- 🧭 [**Pool Valet**](https://www.poolvalet.com/) – Interactive lead generation site with responsive, SEO-optimized design.  
+- 💬 [**Chitchat**] – Real-time chat app using React, Node.js, Express, and Socket.IO.  
 
 ---
 
 ### 📊 GitHub Stats (Dark Theme Enabled)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahedihasanimam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahedihasanimam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahedihasanimam&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahedihasanimam&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahedihasanimam&theme=tokyonight" alt="Streak Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahedihasanimam&theme=tokyonight" alt="Streak Stats" />
+---
+
+### 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahedihasanimam&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
+
+---
+
+### 💡 “Design isn’t about making things look pretty — it’s about making them work beautifully.”
+
+⭐️ *Inspired by creativity, driven by code, and powered by coffee ☕*
