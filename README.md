@@ -11,9 +11,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehedi60)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahedihasanimam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FF88.svg?style=for-the-badge&logo=About.me&logoColor=black)](https://mehedi60.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FF88.svg?style=for-the-badge&logo=About.me&logoColor=black)](https://www.mehedidev.tech/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmehedihasen678@gmail.com)
-[![Resume](https://img.shields.io/badge/Résumé-View%20PDF-00FF88?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1wS6ZtWEJfWtqyGrO99TgOaG2cFOKUMfo/view)
+[![Resume](https://img.shields.io/badge/Résumé-View%20PDF-00FF88?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1kKACLYu3Cg7yqzuOiYmyD5nMUHdBVNHt/view?usp=sharing)
 
 <img src="https://komarev.com/ghpvc/?username=mahedihasanimam&label=Profile+Views&color=00ff88&style=flat-square" />
 
