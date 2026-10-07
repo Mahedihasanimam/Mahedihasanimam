@@ -25,7 +25,7 @@ I'm a React Native & Expo developer who builds high-performance cross-platform a
   <tr>
     <td align="center" width="25%"><h3>100K+</h3>Downloads on a production job portal</td>
     <td align="center" width="25%"><h3>5+</h3>Apps published on Google Play & App Store</td>
-    <td align="center" width="25%"><h3>$400/mo</h3>Ad revenue generated for a client app</td>
+    <td align="center" width="25%"><h3>$600/mo</h3>Ad revenue generated for a client app</td>
     <td align="center" width="25%"><h3>2+ yrs</h3>Professional mobile development</td>
   </tr>
 </table>
